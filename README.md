@@ -26,7 +26,7 @@
 │ user      : farhan.hussain                                       │
 │ program   : b.tech cse — ai & ml                                 │
 │ institute : k.r. mangalam university                             │
-│ roll no   : 2501730002                                           │
+│                                           │
 │ ideology  : pipelines > pixels // logic > layout                 │
 │ status    : active — compiling knowledge, shipping code          │
 └──────────────────────────────────────────────────────────────────┘
