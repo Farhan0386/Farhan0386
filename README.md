@@ -45,7 +45,6 @@ K.R. Mangalam University | Roll No: 2501730002
 │ toolchain : python3 · pip · venv · git                           │
 │ workflow  : terminal-first, gui-optional                         │
 │ frontend  : academic / exam-scope only                           │
-│                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -86,8 +85,9 @@ Frontend scope: academic / exam-only
 
 ## Verified Projects
 
-| Project | What it does | Visit |
+| Project | Focus | Visit |
 | :--- | :--- | :--- |
-| Campus Energy Analytics Dashboard | OOP CSV ingestion with `on_bad_lines='skip'`, daily `resample('D')`, and multi-panel Matplotlib output. | [Open code base](https://github.com/farhan0386/assignments/tree/main/SEM-1/PYTHON/ASSIGNMENT-5-CAPSTONE-PROJECT) |
-| Automated Weather Data Analytics Engine | Linear timestamp interpolation, month-end `resample(freq='ME')`, and twin-axis weather visualization. | [Open script](https://github.com/farhan0386/assignments/blob/main/SEM-1/PYTHON/ASSIGNMENT-4/weather_analysis.py) |
-| Algorithmic Sandbox | Stacks, Linked Lists, Custom Sorters, 2D matrix traversal, and Bash monitoring utilities. | [Open code base](https://github.com/farhan0386/btech-codebase) |
+| Campus Energy Analytics Dashboard | OOP CSV ingestion with `on_bad_lines='skip'`, daily `resample('D')`, and multi-panel Matplotlib output. | [Code base](https://github.com/farhan0386/assignments/tree/main/SEM-1/PYTHON/ASSIGNMENT-5-CAPSTONE-PROJECT) |
+| AI Library Management System | Pandas-driven transaction auditing, behavioral EDA, and a Scikit-learn Linear Regression model for fine prediction. | [Code base](https://github.com/farhan0386/sem-2-minor_project) |
+| SkyPulse | React + Tailwind weather dashboard with dark glassmorphism UI and real-time environmental metrics. | [Live site](https://skyplus.vercel.app/) |
+| Algorithmic Sandbox | Stacks, Linked Lists, Custom Sorters, 2D matrix traversal, and Bash monitoring utilities. | [Code base](https://github.com/farhan0386/btech-codebase) |
