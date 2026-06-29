@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NIXOS-000000?style=for-the-badge&logo=nixos&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
