@@ -4,8 +4,6 @@
 
 **B.Tech CSE — Artificial Intelligence & Machine Learning**
 
-K.R. Mangalam University | Roll No: 2501730002
-
 `Engineering data pipelines, not decorating dashboards.`
 
 <br />
