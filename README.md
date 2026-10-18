@@ -1,90 +1,120 @@
 <div align="center">
 
-# FARHAN HUSSAIN
+# Hi, I'm Farhan Hussain 👋
 
-**B.Tech CSE — Artificial Intelligence & Machine Learning**
+### AI & ML student · Python developer · Builder of local-first tools
 
-`Engineering data pipelines, not decorating dashboards.`
+<a href="https://github.com/Farhan0386">
+  <img src="https://img.shields.io/badge/GitHub-Farhan0386-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+<a href="https://www.linkedin.com/in/farhan-hussain-771673366/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile">
+</a>
+<a href="mailto:farhan03860@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Farhan">
+</a>
 
-<br />
+<br>
+<br>
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+Python+%F0%9F%90%8D;Exploring+agentic+AI+%F0%9F%A4%96;Running+local+LLMs+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80" alt="Animated introduction">
 
 </div>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
+## About me
 
-```text
-┌─[ profile.status ]───────────────────────────────────────────────┐
-│ user      : farhan.hussain                                       │
-│ program   : b.tech cse — ai & ml                                 │
-│ institute : k.r. mangalam university                             │
-│                                           │
-│ ideology  : pipelines > pixels // logic > layout                 │
-│ status    : active — compiling knowledge, shipping code          │
-└──────────────────────────────────────────────────────────────────┘
-```
+I'm a **B.Tech CSE (AI & ML) student at K.R. Mangalam University** focused on turning ideas into useful, privacy-conscious software. I enjoy exploring how local language models can become reliable agents that do more than just chat.
 
-</td>
-<td width="50%" valign="top">
+- 🔭 Building **Local Dev AI**, a coding assistant powered by a local LLM
+- 🌱 Learning agentic AI, tool-using LLMs, and model optimization
+- 🧠 Strongest tool: **Python**
+- 🖥️ Daily setup: Windows 11 Pro, VS Code, Git & GitHub
+- 🎯 Goal: build larger projects end to end
 
-```text
-┌─[ workstation.mode ]─────────────────────────────────────────────┐
-│ distro    : elementary os                                        │
-│ shell     : bash                                                 │
-│ toolchain : python3 · pip · venv · git                           │
-│ workflow  : terminal-first, gui-optional                         │
-│ frontend  : academic / exam-scope only                           │
-└──────────────────────────────────────────────────────────────────┘
-```
+## Featured project
 
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="70%">
+      <h3>🤖 Local Dev AI</h3>
+      <p>A privacy-first coding assistant that runs entirely on my own machine using a local LLM. This project is helping me learn how to run models efficiently and turn them into practical, tool-using agents.</p>
+      <strong>Status:</strong> <code>Active development</code>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/Privacy-Local--first-00B894?style=for-the-badge" alt="Local-first project">
+      <br><br>
+      <img src="https://img.shields.io/badge/Focus-Agentic%20AI-6C63FF?style=for-the-badge" alt="Agentic AI project">
+    </td>
+  </tr>
 </table>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="45%" valign="top">
+## Other projects
 
-## Core Engineering Stack
-
-| Area | Focus |
-| :--- | :--- |
-| Python | Advanced OOP, exception handling, multi-level logging, Pandas, NumPy, Matplotlib |
-| Bash / Shell | Environment setup, Linux monitoring, backup automation |
-| HTML / CSS / JS | Learned for academic exams only |
-
-</td>
-<td width="55%" valign="top">
-
-## Language Distribution
-
-| Language | Weight | Bar |
-| :--- | :---: | :--- |
-| Python | 85% | █████████████████░░░ |
-| Bash / Shell | 10% | ██░░░░░░░░░░░░░░░░░░ |
-| HTML / CSS / JS | 5% | █░░░░░░░░░░░░░░░░░░░ |
-
-Primary language: Python
-
-Frontend scope: academic / exam-only
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <h3>☁️ SkyPulse</h3>
+      <p>A complete weather website deployed on Vercel.</p>
+      <a href="https://skyplus.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Visit-00B894?style=flat-square" alt="Visit SkyPulse"></a>
+      <a href="https://github.com/Farhan0386/ASSIGNMENTS/tree/main/SEM-2/WEB-DEV-2/Capstone-Project"><img src="https://img.shields.io/badge/Source%20code-View-181717?style=flat-square&logo=github" alt="View SkyPulse source code"></a>
+    </td>
+  </tr>
 </table>
 
-## Verified Projects
+## Tech stack
 
-| Project | Focus | Visit |
-| :--- | :--- | :--- |
-| Campus Energy Analytics Dashboard | OOP CSV ingestion with `on_bad_lines='skip'`, daily `resample('D')`, and multi-panel Matplotlib output. | [Code base](https://github.com/farhan0386/assignments/tree/main/SEM-1/PYTHON/ASSIGNMENT-5-CAPSTONE-PROJECT) |
-| AI Library Management System | Pandas-driven transaction auditing, behavioral EDA, and a Scikit-learn Linear Regression model for fine prediction. | [Code base](https://github.com/farhan0386/sem-2-minor_project) |
-| SkyPulse | React + Tailwind weather dashboard with dark glassmorphism UI and real-time environmental metrics. | [Live site](https://skyplus.vercel.app/) |
-| Algorithmic Sandbox | Stacks, Linked Lists, Custom Sorters, 2D matrix traversal, and Bash monitoring utilities. | [Code base](https://github.com/farhan0386/btech-codebase) |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-6C63FF?style=for-the-badge&logo=googlebrain&logoColor=white" alt="AI and machine learning">
+  <img src="https://img.shields.io/badge/Local%20LLMs-00B894?style=for-the-badge&logo=ollama&logoColor=white" alt="Local large language models">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
+
+## Currently learning
+
+| Area | What I'm exploring |
+| --- | --- |
+| 🧩 Agentic AI | Tool use, planning, and reliable workflows |
+| ⚙️ Local models | Running and optimizing LLMs on personal hardware |
+| 🏗️ Software projects | Building and shipping complete projects end to end |
+
+## Certifications
+
+- **Foundational Bootcamp** — Programming Pathshala · *July 2026*<br>
+  Programming fundamentals, problem solving, data structures, OOP, Git & GitHub, and CS fundamentals
+- **Certificate of Appreciation** — K.R. Mangalam University · *May 2026*<br>
+  Semester project
+
+## GitHub overview
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan0386&show_icons=true&hide_border=true&border_radius=12&title_color=6C63FF&icon_color=00B894&text_color=586069&bg_color=ffffff" alt="Farhan's GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0386&layout=compact&hide_border=true&border_radius=12&title_color=6C63FF&text_color=586069&bg_color=ffffff" alt="Farhan's top languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Farhan0386&hide_border=true&border_radius=12&ring=6C63FF&fire=FF7675&currStreakLabel=6C63FF" alt="Farhan's GitHub streak">
+</div>
+
+<details>
+  <summary><b>🌈 Prefer dark mode?</b></summary>
+  <br>
+  GitHub automatically adapts images to your theme when supported. The profile uses indigo, emerald, and coral accents to stay readable in both light and dark mode.
+</details>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting!
+
+If you're interested in local AI, agentic workflows, or building in public, feel free to connect.
+
+<a href="mailto:farhan03860@gmail.com">📧 farhan03860@gmail.com</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Farhan0386&color=6C63FF&style=flat-square&label=Profile+views" alt="Profile views">
+
+</div>
